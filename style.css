@@ -1,0 +1,42 @@
+/*#p5Canvas {
+	position: relative;
+	display: inline;
+
+
+}*/
+
+body{
+	background-color:#ebebeb;
+}
+#canvas_holder {
+	display: flex;
+	justify-content: center;
+	margin-top: 20px;
+	position: relative;
+
+	
+
+}
+
+
+/*
+footer {
+	text-align:center;
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+	position: relative;
+}
+*/
+/*button {
+	
+	font-size: 20px;
+	color: #404040;
+	height: 40px;
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+	position: relative;
+	stroke: none;
+
+}*/
